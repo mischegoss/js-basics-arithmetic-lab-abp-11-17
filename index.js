@@ -1,2 +1,1 @@
-const newID = '1000000000 + oldID';
-
+let newID = '1000000000 + oldID';
