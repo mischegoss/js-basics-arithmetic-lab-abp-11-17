@@ -1,1 +1,1 @@
-let newID = '1000000000 + oldID';
+let newID = oldID=+ 1000000000;
